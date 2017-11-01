@@ -154,8 +154,8 @@ MonoBehaviour:
     y: 0
     width: 855
     height: 635
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -187,7 +187,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 613}
   m_MaxSize: {x: 10004, y: 18063}
   vertical: 1
-  controlID: 42
+  controlID: 119
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -401,9 +401,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.225502
+    m_Target: 8.0743
     speed: 2
-    m_Value: 13.225502
+    m_Value: 8.0743
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -468,9 +468,9 @@ MonoBehaviour:
     height: 203
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a270000
+    m_SelectedIDs: 28c5ffff
     m_LastClickedID: 0
-    m_ExpandedIDs: a8c9ffffc4f6ffffe4fbffff00000000
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,8 +529,7 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets/Gothicvania-Town/Art/Environment/Background
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
@@ -541,7 +540,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 7c1e0000
     m_LastClickedID: 7804
-    m_ExpandedIDs: b0240000
+    m_ExpandedIDs: 02250000fe2500003c26000082260000a6260000ca260000cc260000ac270000a2280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -566,24 +565,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 9}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: b0240000ca260000f42600000c2700002a27000090270000182d00002c2d00003e2d0000
+    m_ExpandedIDs: 022500003c26000082260000a6260000ca260000cc260000ac270000b0270000a22800004a2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Parallaxing
+      m_OriginalName: Parallaxing
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 11586
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
